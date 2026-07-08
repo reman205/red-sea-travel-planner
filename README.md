@@ -1,4 +1,5 @@
 # 🌊 Red Sea Travel Planner
+![Project Preview](screenshots/preview.png)
 
 An interactive AI-generated luxury travel planner for Saudi Red Sea destinations, built using Prompt Engineering and Claude.
 
